@@ -50,5 +50,12 @@ namespace Template_4333
             dinar.Show();
             this.Hide();
         }
+
+        private void rustik(object sender, RoutedEventArgs e)
+        {
+            _4333_Akhmetzyanov rustek = new _4333_Akhmetzyanov();
+            rustek.Show();
+            this.Hide();
+        }
     }
 }
